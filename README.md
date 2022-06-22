@@ -13,3 +13,7 @@
 I am experienced in **Cloud Computing**, **Web Development**, and **DevOps**.
 
 Recently, I've been working on **Python** and **JavaScript**.
+
+
+![github status of jc-hiroto](https://github-readme-stats.vercel.app/api?username=jc-hiroto&count_private=true&show_icons=true&theme=tokyonight&disable_animations=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jc-hiroto&theme=tokyonight)](https://git.io/streak-stats)
