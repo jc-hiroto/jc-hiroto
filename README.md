@@ -8,9 +8,9 @@
 [![Twitter](https://img.shields.io/twitter/follow/jc_hiroto_?style=social)](https://twitter.com/jc_hiroto_)
 [![Views](https://komarev.com/ghpvc/?username=jc-hiroto&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/jc-hiroto)
 
-### A Taiwanese🇹🇼 developer based in Mountain View⛰.
+### A Taiwanese developer based in the bay area.
 
-I am experienced in **Cloud Computing**, **Web Development**, and **DevOps**.
+I am experienced in **Cloud Solutions** and **Full Stack Development**.
 
 Recently, I've been working on **Python** and **JavaScript**.
 
