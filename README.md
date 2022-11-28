@@ -12,7 +12,7 @@
 
 I am experienced in **Cloud Solutions** and **Full Stack Development**.
 
-Recently, I've been working on **Python** and **JavaScript**.
+Recently, I've been working on **TypeScript**/**JavaScript** and **Python**.
 
 
 [![github status of jc-hiroto](https://github-readme-stats.vercel.app/api?username=jc-hiroto&count_private=true&show_icons=true&theme=tokyonight&disable_animations=true)](https://github.com/jc-hiroto)
